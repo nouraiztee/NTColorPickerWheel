@@ -17,7 +17,7 @@ You can use this package by adding it as a dependency in your Swift project.
 1. In Xcode, go to your project settings.
 2. Select the `Package Dependencies` tab.
 3. Click the `+` button to add a package.
-4. Enter the GitHub URL: `https://github.com/your-username/ColorPicker`
+4. Enter the GitHub URL: `https://github.com/nouraiztee/NTColorPickerWheel`
 5. Choose the version and add it to your project.
 
 ## Usage
