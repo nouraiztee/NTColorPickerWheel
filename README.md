@@ -4,7 +4,7 @@ A Swift package for selecting colors using a color wheel and a draggable picker.
 
 ## Features
 
-- Beautiful color wheel with hue and saturation selection.
+- Beautiful color wheel with hue and saturation.
 - Draggable picker to choose specific colors.
 - Delegate support for easy integration.
 
