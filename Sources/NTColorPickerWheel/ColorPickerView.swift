@@ -11,7 +11,7 @@ import UIKit
 public class ColorPickerView: UIView {
 
     // MARK: - Properties
-    weak var delegate: ColorPickerDelegate? // Delegate for color selection
+    public weak var delegate: ColorPickerDelegate? // Delegate for color selection
     private let colorWheelView = ColorWheelView() // Color wheel view
     private let pickerView = UIView() // Draggable picker view
     private let pickerRadius: CGFloat = 17.5 // Radius of the picker
